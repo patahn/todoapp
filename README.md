@@ -1,3 +1,3 @@
 # ToDoApp
 
-# To-Do Web Service using VaanillaJS
+To-Do Web Service using VanillaJS
