@@ -45,7 +45,7 @@ function renderToDo(text) {
   list.prepend(document.createElement("br"));
   saveToDo(text);
 
-  if(li.innerText.length >= screen.width){
+  if(toDo.innerText.length >= screen.width){
     list.appendChild(document.createElement("br"));
   }
 }
